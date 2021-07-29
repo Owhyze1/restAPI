@@ -1,4 +1,4 @@
-package com.johnson.app.rest.Controller.Models;
+package com.johnson.app.rest.Models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
